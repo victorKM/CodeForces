@@ -1,2 +1,2 @@
-# exercicios-gempro
-Compartilhamento dos exercicios do gempro
+# exercicios-codeforces
+compartilhamento dos exercícios do codeforces
